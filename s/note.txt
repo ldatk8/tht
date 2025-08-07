@@ -1,0 +1,1 @@
+hmm khi dùng hash thì ta nên tách các hash mà chắc chắn ko bằng nhau ra và dùng các base lớn (9973) để tăng độ chính xác và tốc độ
